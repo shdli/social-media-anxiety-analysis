@@ -3,8 +3,10 @@
 This project investigates the relationship between digital usage habits and mental wellbeing. By analyzing a dataset of over 6,000 participants, we aim to uncover how screen time, notifications, and sleep patterns correlate with anxiety levels, and whether behavioral interventions like digital detox or screen limits effectively mitigate stress.
 
 ## Technologies Used
+## Technologies Used
 * **Python**
-* **Pandas** (for data analysis)
+* **Pandas** (for data manipulation and analysis)
+* **NumPy** (for underlying numerical operations)
 * **Matplotlib / Seaborn** (for data visualization)
 * **Jupyter Notebook**
 
